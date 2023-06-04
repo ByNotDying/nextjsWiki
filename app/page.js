@@ -41,7 +41,7 @@ export default function Home() {
             Deploy <span>-&gt;</span>
           </h2>
           <p>
-            Instantly deploy your Next.js site to a shareable URL with Vercel.
+            Instantly deploy your Next.js site to a shareable URL with Vercel test edit while server react. this is now done with npm run dev
           </p>
         </a>
 
